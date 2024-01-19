@@ -27,7 +27,7 @@ Script PowerShell ini melakukan serangkaian tindakan untuk mengoptimalkan kinerj
     * Ketik perintah berikut dan tekan Enter:
 
 ```powershell
-.\Optimize-System-Performance.ps1
+.\speedmemory.ps1
 ```
 
 4. **Ikuti petunjuk apa pun**
