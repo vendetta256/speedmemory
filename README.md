@@ -28,7 +28,7 @@ Script PowerShell ini melakukan serangkaian tindakan untuk mengoptimalkan kinerj
 
 ```powershell
 .\Optimize-System-Performance.ps1
-
+```
 
 4. **Ikuti petunjuk apa pun**
     * Jika diminta konfirmasi, tekan Y atau Enter untuk melanjutkan.
