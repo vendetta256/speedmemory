@@ -13,7 +13,7 @@ Script PowerShell ini melakukan serangkaian tindakan untuk mengoptimalkan kinerj
 * PowerShell Windows
 * Hak istimewa administrator
 
-[Image of Buka PowerShell sebagai Administrator](https://i0.wp.com/winpoin.com/wp-content/uploads/2013/07/cara-buka-windows-powershell-admin-windows-8_02.jpg?w=640&ssl=1)
+![Cara Buka Windows PowerShell Admin di Windows 8](https://raw.githubusercontent.com/vendetta256/speedmemory/main/cara-buka-windows-powershell-admin-windows-8_02.webp)
 
 ## Menjalankan Script
 
